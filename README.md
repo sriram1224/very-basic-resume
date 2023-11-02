@@ -1,3 +1,1 @@
-# very-basic-resume
-hosted link
-https://github.com/sriram1224/very-basic-resume
+https://sriram1224.github.io/very-basic-resume.github.io/
